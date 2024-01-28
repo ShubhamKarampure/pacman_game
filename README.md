@@ -31,6 +31,13 @@ python main.py
 
 Enjoy navigating Pacman through mazes, avoiding ghosts, and collecting those delicious pellets!
 
+
+## Web demo
+
+To play the web demo of Pac-Man, visit [Retro-Pacman](https://shubhamkarampure.itch.io/retro-pacman).
+
+Note it is converted using pygbag library hence it can be upto 5x slower on web.
+
 ## Author
 
 - Shubham Karampure
