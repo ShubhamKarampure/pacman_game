@@ -43,4 +43,3 @@ Note it is converted using pygbag library hence it can be upto 5x slower on web.
 - Shubham Karampure
 
 Thank you for playing! If you encounter any issues or have feedback, feel free to reach out.
-```
