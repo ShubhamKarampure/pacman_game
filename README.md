@@ -1,6 +1,6 @@
 # Pacman Game
 
-Welcome to the Pacman game, a classic arcade experience.
+Welcome to the Pacman game, a classic arcade experience. I had made this game to understand in depth about python OOPS and data structure.
 
 ## Getting Started
 
