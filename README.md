@@ -1,5 +1,7 @@
 # Pacman Game
 
+https://github.com/ShubhamKarampure/pacman_game/assets/113121940/b872d0ab-b7d8-4ef4-8bac-73f0163a4ddb
+
 Welcome to the Pacman game, a classic arcade experience. I had made this game to understand in depth about python OOPS and data structure.
 
 ## Getting Started
